@@ -1,0 +1,26 @@
+# Untitled notebook
+
+```elixir
+Mix.install([:nx])
+```
+
+## Nx
+
+```elixir
+Nx.tensor(42)
+```
+
+```elixir
+Nx.tensor(42)
+|> Nx.add(10)
+```
+
+## ReadMe
+
+`hello world`
+
+### Hi
+
+| test  | bye  |
+| ----- | ---- |
+| hello | test |
